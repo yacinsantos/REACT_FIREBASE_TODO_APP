@@ -1,0 +1,9 @@
+
+
+.todo__list ul {
+    text-align: center;
+    border-radius: 15px;
+    background-color: #1fc8fc;
+    width: 150px;
+    margin-left: 150px;
+}
